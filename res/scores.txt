@@ -1,0 +1,7 @@
+Luis,40732
+Luis,4796
+Test3,2960
+test5,1384
+Test,0
+Test2,0
+Test4,0
